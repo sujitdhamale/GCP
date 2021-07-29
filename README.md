@@ -12,3 +12,12 @@ The Cloud Architect should be proficient in all aspect of enterprise cloud strat
 
 The cloud architect should also be expericenced in software development methodology and approaches including multi tired distributed applications which span multi cloud or hybrid environment. 
 
+
+### Clpid architec [Should have the] the Ability to  
+- Design and plan a cloud solution architecture 
+- Manage and provision the cloud solution infrastructure 
+- Design for security and compliance 
+- analyze and optimize technical and business processes
+- manage implementations of cloud architecture 
+- Ensure solution and operations reliability  
+
